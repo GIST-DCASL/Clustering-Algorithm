@@ -2,11 +2,11 @@
 ## Definition of the Cluster
 > Ma, Jeong-Min, et al. "Clusters in multi-leader directed consensus networks." 2020 20th International Conference on Control, Automation and Systems (ICCAS). IEEE, 2020.
 
-By the conensus protocol, the agents reaches steady-state. If steady-states of every agent are same, the system reaches a consensus.
+By the conensus protocol, the agents reach steady-state. If steady-states of every agent are same, the system reaches a consensus.
 
-However, at the multi-leader directed network, the system cannot reach a consensus.
+However, at the multi-leader directed consensus network, the system cannot reach a consensus.
 
-So, at the above paper, *Cluster* is defined in multi-leader directed network.
+At the above paper, *Cluster* is defined in this multi-leader directed consensus network.
 
 The paper guarantees that the steady-state value of all nodes in same cluster converges to common value whatever intial values and weights are.
 
